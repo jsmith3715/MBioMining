@@ -58,7 +58,6 @@ STEM CELL MICROSTRUCTURE (BIOLOGICAL "SPONGE")
 
 ---
 
-## 🧮 Mathematical Modeling: Laplace Pressure Equilibrium
 
 ## 🧮 Mathematical Modeling: Laplace Pressure Equilibrium
 
